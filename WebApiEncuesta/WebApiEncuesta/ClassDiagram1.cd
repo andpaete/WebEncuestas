@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="WebApiEncuesta.Controllers.ControlWebController">
+    <Position X="15.5" Y="14" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAACAEAAQAAAAAAAAAAAAg=</HashCode>
+      <FileName>Controllers\ControlWebController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiEncuesta.Controllers.EncuestaXReporteEnlaceController">
+    <Position X="9.75" Y="13.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\EncuestaXReporteEnlaceController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiEncuesta.Controllers.OpcionesRespuestaController">
+    <Position X="24.75" Y="14" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\OpcionesRespuestaController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiEncuesta.Controllers.PreguntasController">
+    <Position X="21.75" Y="14" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAEACAEAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Controllers\PreguntasController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UniversalAPI.Controllers.CssControlN1Controller">
+    <Position X="7" Y="13.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Controllers\CssControlController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UniversalAPI.Controllers.EncuestaController">
+    <Position X="18.5" Y="14" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAABAAAAAAAAACAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Controllers\EncuestaController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UniversalAPI.Controllers.RespuestaXPregutaController">
+    <Position X="3.5" Y="13.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAABAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\RespuestaXPregutaController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiEncuesta.Controllers.Repositories.ControlWebRepository" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="23.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAwAAAABAgAAAAAAAAAAIAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Controllers\Repositories\ControlWebRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WebApiEncuesta.Controllers.Repositories.CssControlRepository" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="30" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAQAAAAAAAAAAAAAABAAABAA=</HashCode>
+      <FileName>Controllers\Repositories\CssControlRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WebApiEncuesta.Controllers.Repositories.EncuestaRepository" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="23.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAABIAAABAAAAAAgEAAEAAICYhAAAAAAAA=</HashCode>
+      <FileName>Controllers\Repositories\EncuestaRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WebApiEncuesta.Controllers.Repositories.FindEncuestas">
+    <Position X="1.5" Y="30" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAIgAAAAAAAABAAAAQAAAAQAAg=</HashCode>
+      <FileName>Controllers\Repositories\EncuestaRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiEncuesta.Controllers.Repositories.EncuestaXReporteEnlaceRepository" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="23.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Controllers\Repositories\EncuestaXReporteEnlaceRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WebApiEncuesta.Controllers.Repositories.OpcionesRespuestaRepository" BaseTypeListCollapsed="true">
+    <Position X="25.75" Y="30.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\Repositories\OpcionesRespuestaRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WebApiEncuesta.Controllers.Repositories.PreguntasRepository" BaseTypeListCollapsed="true">
+    <Position X="22" Y="23.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAIAAIAAABAADAAAAAAREAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Controllers\Repositories\PreguntasRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WebApiEncuesta.Controllers.Repositories.RespuestaXPregutaRepository" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="23.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Controllers\Repositories\RespuestaXPregutaRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="UniversalAPI.Controllers.Repositories.ReporteEnlaceRepository" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="23.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\Repositories\ReporteEnlaceRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WebApiEncuesta.Models.Context">
+    <Position X="27.5" Y="23.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ABAAggAAAAAAACAABAABAAAAEAAAABAAAAAAARAAAAA=</HashCode>
+      <FileName>Models\Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiEncuesta.Models.ControlWeb">
+    <Position X="15.25" Y="30.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAANBABCCAAAABAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ControlWeb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiEncuesta.Models.CssControl">
+    <Position X="6.5" Y="23.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACABAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CssControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiEncuesta.Models.Encuesta">
+    <Position X="18.5" Y="30.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAEAABgAgABBAAAAAAAAIAAAAAAAAAg=</HashCode>
+      <FileName>Models\Encuesta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiEncuesta.Models.EncuestaXReporteEnlace">
+    <Position X="9.5" Y="30" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gBAAAAAAAAAAAAAABAAAAAAAAAAAAAAAoAgAAAgoAEA=</HashCode>
+      <FileName>Models\EncuestaXReporteEnlace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiEncuesta.Models.OpcionesRespuesta">
+    <Position X="25.25" Y="23.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAIAAAAAAAAFAgAAAAAAAAAAAAAAAAAAQAAg=</HashCode>
+      <FileName>Models\OpcionesRespuesta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiEncuesta.Models.Preguntas">
+    <Position X="22.25" Y="30.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAABAAAAAAAAAAgABAAAAAAAAAIAQAAAAQAAg=</HashCode>
+      <FileName>Models\Preguntas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiEncuesta.Models.ReporteEnlace">
+    <Position X="12.5" Y="30.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAAAA=</HashCode>
+      <FileName>Models\ReporteEnlace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiEncuesta.Models.RespuestaXPreguta">
+    <Position X="3.75" Y="30" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAQAABAAACAAAAAAAAAAAEAgAAAAAAAAAQAAEAg=</HashCode>
+      <FileName>Models\RespuestaXPreguta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiEncuesta.Models.Segmento">
+    <Position X="28.5" Y="30.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Segmento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Web.Http.ApiController" Collapsed="true">
+    <Position X="13" Y="10.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Object">
+    <Position X="0.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Data.Entity.DbContext">
+    <Position X="31.5" Y="23.75" Width="3.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="WebApiEncuesta.Models.Interfaces.IControlWeb">
+    <Position X="15.5" Y="19" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAwAAAAAAgAAAAAAAAAAIAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Interfaces\IControlWeb.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WebApiEncuesta.Models.Interfaces.ICssControl">
+    <Position X="6.75" Y="19" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAQAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Models\Interfaces\ICssControl.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WebApiEncuesta.Models.Interfaces.IEncuesta">
+    <Position X="18.5" Y="19" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAIAAABAAAAAAgEAAEAAICIhAAAAAAAA=</HashCode>
+      <FileName>Models\Interfaces\IEncuesta.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WebApiEncuesta.Models.Interfaces.IEncuestaXReporteEnlace">
+    <Position X="9.75" Y="19" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Models\Interfaces\IEncuestaXReporteEnlace.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WebApiEncuesta.Models.Interfaces.IOpcionesRespuesta">
+    <Position X="25" Y="19" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Interfaces\IOpcionesRespuesta.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WebApiEncuesta.Models.Interfaces.IPreguntas">
+    <Position X="21.75" Y="19" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAIAAAAAADAAAAAAREAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Models\Interfaces\IPreguntas.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WebApiEncuesta.Models.Interfaces.IReporteEnlace">
+    <Position X="12.5" Y="19" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Interfaces\IReporteEnlace.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WebApiEncuesta.Models.Interfaces.IRespuestaXPreguta">
+    <Position X="3.5" Y="19" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Models\Interfaces\IRespuestaXPreguta.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
